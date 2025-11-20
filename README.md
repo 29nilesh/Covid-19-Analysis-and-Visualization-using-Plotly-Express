@@ -37,7 +37,7 @@ The project uses a dataset named **covid.csv**, containing:
 
 How to Run This Project
 1. Download or clone this repository  
-2. Open the `.ipynb` notebook in **Google Colab** or **Jupyter Notebook**  
+2. Open the `.ipynb` notebook in Google Colab or Jupyter Notebook 
 3. Upload your `covid.csv` file  
 4. Run the notebook cells one by one  
 
