@@ -33,7 +33,7 @@ The project uses a dataset named **covid.csv**, containing:
 - Deaths  
 - Active Cases  
 - Date-wise data  
-(Columns may vary depending on dataset)
+
 
 How to Run This Project
 1. Download or clone this repository  
